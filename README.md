@@ -8,7 +8,7 @@
 - 🤝 I’m looking for help with advanced clean architecture patterns  
 - 🌱 I’m currently learning Front-End (HTML → CSS → JavaScript)  
 - 💬 Ask me about ASP.NET Core, EF Core, Identity, Clean Architecture  
-- 📫 How to reach me: shahdsolliman@gmail.com  
+- 📫 How to reach me: shahd.soliman2050@gmail.com  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/shahdsolliman)  
 - 📄 Know about my experiences: [CV upon request]  
 
