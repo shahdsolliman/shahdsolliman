@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahd Soliman</h1>
-<h3 align="center">.NET Backend Developer | Clean Architecture Enthusiast</h3>
+<h3 align="center">.NET Backend Developer</h3>
 
 ---
 
